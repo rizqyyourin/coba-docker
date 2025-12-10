@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Aliases untuk Sail commands
+alias sail='./vendor/bin/sail'
